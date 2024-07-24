@@ -1,0 +1,37 @@
+
+.card{
+    background-image: url("https://img.freepik.com/free-photo/wallpaper-indian-ocean-air-photo_624325-2908.jpg");
+    height: 95vh;
+    background-size: cover;
+    
+}
+
+.main-heading{
+    text-align: center;
+    background-color: white;
+    border-top-right-radius: 25px;
+    border-top-left-radius: 25px;
+    padding: 25px;
+}
+
+
+.heading{
+    color: blueviolet;
+    font-family: Roboto;
+    font-size: 21px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.para{
+    color: brown;
+}
+
+.button{
+    color: aqua;
+    height: 40px;
+    width: 75px;
+    background-color: blueviolet;
+    border-radius: 25px;
+    border-width: 0px;
+}
